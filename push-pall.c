@@ -20,6 +20,7 @@ void pall() {
         printf("%d\n", stack[i]);
     }
 }
+
 int main() {
     push(10);
     push(20);
